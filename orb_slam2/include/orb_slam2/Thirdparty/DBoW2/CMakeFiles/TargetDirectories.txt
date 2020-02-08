@@ -1,0 +1,3 @@
+/home/khanh/ros_catkin_ws/src/orb_slam2/Thirdparty/DBoW2/CMakeFiles/rebuild_cache.dir
+/home/khanh/ros_catkin_ws/src/orb_slam2/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir
+/home/khanh/ros_catkin_ws/src/orb_slam2/Thirdparty/DBoW2/CMakeFiles/edit_cache.dir
